@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("aia e")
+        print("iarasi aia e")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
